@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hello World, I'm Henok  👋 </h1>
 <h3 align="center" size="300%"><b>A passionate full stack developer </b></h3>
 <img width="1000" src="https://github.com/henok-aklilu/henok-aklilu/blob/main/welcome.gif" />
@@ -13,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=henok-aklilu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henok-aklilu&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henok-aklilu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=henok-aklilu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
